@@ -3,7 +3,7 @@ Licensed under CC-BY-SA 3.0
 ## Summary
 The Hacker's Tarot is meant as a very serious joke, with the goal of composing a Major Arcana for and by hackers, referencing the archetypes of the hacker world and the hacker mindset.
 
-We try not to stick to one Tarot tradition, while at the same time following the traditions very closely. There will surely be influences from at least the three big ones (Rider-Waite-Smith, Marseilles and Thoth), and likely also elements of Wicca and other interpretations of the meanings of the cards. 
+We try not to stick to one Tarot tradition, while at the same time following the traditions very closely. There will surely be influences from at least the three big ones ([Rider-Waite-Smith](https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck), [Marseilles](https://en.wikipedia.org/wiki/Tarot_of_Marseilles) and [Thoth](https://en.wikipedia.org/wiki/Thoth_tarot_deck)), and likely also elements of Wicca and other interpretations of the meanings of the cards. 
 
 Why this is a "very serious joke" rather than a simple joke is because there's care put into the symbols used. If someone were to illustrate these cards you could read them as well as you read your ordinary Major Arcana.
 
