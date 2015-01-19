@@ -1,5 +1,5 @@
 # The Hacker's Tarot
-Licensed under CC-BY-SA 3.0
+
 ## Summary
 The Hacker's Tarot is meant as a very serious joke, with the goal of composing a Major Arcana for and by hackers, referencing the archetypes of the hacker world and the hacker mindset.
 
