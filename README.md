@@ -7,7 +7,15 @@ We try not to stick to one Tarot tradition, while at the same time following the
 
 Why this is a "very serious joke" rather than a simple joke is because there's care put into the symbols used. If someone were to illustrate these cards you could read them as well as you read your ordinary Major Arcana.
 
+## A *real* Hacker's Tarot
+There are various "cyber" Tarot decks out there already. But in many ways they generally reflect a pop cultural cyberpunk vision of the hacker as a veritable wizard waving his (always his!) fingers at computers that immediately do his bidding. This is, of course, not at all how hacking works.
+
+To not use the rich spiritual and religious symbology already present in hackerdom is honestly speaking kind of ridiculous.
+
+A *real* Hacker's Tarot shouldn't copy icons from hackerdom onto superficially similar archetypes (like replacing the High Priestess with Trinity from *The Matrix*, or even with [Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)) What would make more sense, then, is to look at the symbolical interpretations of the card and work backwards from there. What represents these values within hackerdom? (TODO: Add the actual correspondence for the High Priestess once I figure it out.)
+
 ## Motivation
+
 
 ### Inclusivity
 - Not everyone is comfortable with the Christian symbolism in the Marseilles deck
