@@ -1,18 +1,22 @@
 # Initial notes on simple meanings
 
-If referring to cards by numbers remember that the fool is 0. It's not unnumbered!
+If referring to cards by numbers remember that the first card (of course) is 0. It's not unnumbered!
 
 Also, we're currently on the Marseille ordering with Justice before Strength rather than the other way around. Maybe this will change, but I like how the Hacker trumps the RFC now.
 
 ## The Fool 
-**The Neophyte**
+**The Hacker**
 
-I seem to remember this as BBS terminology. Where did I pick that up as meaning "someone learning to hack"?
+The central figure of the story; the journeyman on a vision quest; the seeker of knowledge and the seer of this world.
 
-A beginner with an empty prompt and not much else. What happens if I type `rm -rf /`? Oops. Oh well.
+Also careless, boastful, curious until the very end.
+
+Funny enough, card number 0 is sometimes referred to as the cipher or the cipher card.
 
 ## The Magician
 **The Skiddie**
+
+He feels the master of the Universe, dominating the fools and harnessing great power. In reality he's in his mother's basement, eating Cheetos, DDoSing the CIA.
 
 The Marseilles meaning more than R-W-S or Thoth here; magician as in shell games and sleight-of-hand, not high magic.
 
@@ -22,10 +26,12 @@ The Marseilles meaning more than R-W-S or Thoth here; magician as in shell games
 ## The Hierophant
 **The Sysadmin**
 
-Laying down the Law
+Laying down the Law. The interpreter of the worldly side of the spiritual wisdom: thus is how a computer shall be used.
 
 ## The Lovers
 **The Conditional Branch**
+
+You may have one or the other, but never both. You will not know which one you choose, or where the choice may lead, until you are faced with it.
 
 Connecting choice with mysteries of math, indeterminability, ghost-in-the-machine
 
@@ -36,10 +42,6 @@ Connecting choice with mysteries of math, indeterminability, ghost-in-the-machin
 **The RFC**
 
 ## The Hermit
-**The Hacker**
-
-Trumps the RFC, studies introverted knowledge, set apart from the world yet very present in it.
-
 ## Wheel of Fortune
 ## Strength
 ## The Hanged Man
@@ -66,6 +68,8 @@ Not the flip-side of the Sun but rather the necessary reflection of it -- just l
 ## The World
 **Abstraction**
 
-Finally attained enlightenment. Freedom from the rigors of the language -- but also the start of a new cycle of learning and exploring.
+Finally attained enlightenment. Freedom from the limitations of the language -- but also the start of a new cycle of learning and exploring.
 
-Also the coveted abstraction, the bird's eye view, that hackerdom seeks. To generalize what you know about coffee makers and apply it to the plugged drain.
+Fullness, mastery, finality. All there is to have. Or is it?
+
+Also the coveted bird's eye view that hackerdom seeks. To generalize what you know about coffee makers and apply it to the plugged drain.
