@@ -2,7 +2,7 @@
 
 If referring to cards by numbers remember that the first card (of course) is 0. It's not unnumbered!
 
-Also, we're currently on the Marseille ordering with Justice before Strength rather than the other way around. Maybe this will change, but I like how the Hacker trumps the RFC now.
+Also, we're currently on the Marseille ordering with Justice before Strength rather than the other way around. Maybe this will change.
 
 ## The Fool 
 **The Hacker**
